@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: #f14040;
+}
+
+.quem-somos {
+    background-color: rgb(226, 226, 226);
+    color: rgb(224, 26, 26);
+    font-weight: bold;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: #3b3a3a;
+    /*color: rgb(219, 77, 77);*/
+    color: white;
+    font-weight: bold;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
